@@ -16,7 +16,7 @@ pynput
 
 Installation
 
-    Clone the repository:git clone <repository-url>
+    Clone the repository:git clone https://github.com/omar52478/HandGestureGames.git
     cd hand_gesture_games
 
 Install the required libraries:pip install -r requirements.txt
